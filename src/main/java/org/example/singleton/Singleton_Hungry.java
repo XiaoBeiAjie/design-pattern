@@ -1,4 +1,4 @@
-package org.example.Singleton;
+package org.example.singleton;
 
 // 饿汉模式
 public class Singleton_Hungry {

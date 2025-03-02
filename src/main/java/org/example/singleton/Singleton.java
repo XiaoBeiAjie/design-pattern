@@ -1,4 +1,4 @@
-package org.example.Singleton;
+package org.example.singleton;
 
 // 双锁检测懒汉模式
 public class Singleton {
