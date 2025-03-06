@@ -5,3 +5,4 @@ public class AdapterMain {
         System.out.println(new AdapterSpeaker(new Speaker()).translate());
     }
 }
+
