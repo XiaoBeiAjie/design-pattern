@@ -1,10 +1,5 @@
 package org.example.strategy;
 
-import org.example.strategy.Context;
-import org.example.strategy.Strategy;
-import org.example.strategy.Strategy_A;
-import org.example.strategy.Strategy_B;
-
 public class StrategyMain {
     public static void main(String[] args) {
         Context context = new Context();
